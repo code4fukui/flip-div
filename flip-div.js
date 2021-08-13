@@ -41,3 +41,5 @@ class FlipDIV extends HTMLElement {
 }
 
 customElements.define("flip-div", FlipDIV);
+
+export { FlipDIV };
